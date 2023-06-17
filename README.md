@@ -1,3 +1,68 @@
+<h1> My Personal Portfolio </h1>
+
+BR: Este é um projeto de estudo executado acompanhando um tutorial no Youtube feito pela [Webdecoded](https://www.youtube.com/watch?v=hYv6BM2fWd8). <br>
+EN: This is a study project based on a tutorial on Youtube made by [Webdecoded](https://www.youtube.com/@webdecoded). </p>
+
+<br>
+
+
+## 😃 Preview site
+  
+#### Desktop
+
+![](./src/assets/img/screencapture-localhost-3000-2023-06-17-16_01_49.png)
+
+<br>
+
+
+## 😊 Tecnologias usadas | Technologies used
+
+- HTML e CSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- React.Js
+
+<br>
+
+## 💫 Autor | Author
+
+- GitHub - [@leocunhap](https://github.com/NicoleDPizetta)
+- LinkedIn - [@Léo Cunha](https://www.linkedin.com/in/léoc-cunha/)
+
+<br>
+
+## 💫 Agradecimentos | Acknowledgments
+
+BR: Agradeço à [Webdecoded](https://www.youtube.com/@webdecoded) por disponibilizar este vídeo, o resultado ficou incrível. 🤩
+
+EN: Thanks to [Webdecoded](https://www.youtube.com/@webdecoded) for making this video available, the result was amazing. 🤩
+
+---
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
